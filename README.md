@@ -6,4 +6,5 @@
   - Mail: jasjitsingh.uwin@outlook.com
   - LinkedIn: [Jasjit Singh](https://www.linkedin.com/in/jasjitajimal/)
 - 🔗 **Practice dashboards:** [Tableau Public](https://public.tableau.com/app/profile/jasjitajimal/vizzes)
+- 🔗 **Sql Skills:** [Practice SQL](https://github.com/jasjitajimal/practice_sql)
 
