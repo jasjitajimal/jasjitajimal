@@ -16,7 +16,7 @@
   1.  **Google Data Analytics Professional Certification**  
       *Issued by*: Google  
       *Issued on*: [2024-July-12]  
-      [[View Certification](#https://www.coursera.org/account/accomplishments/specialization/S9EMWZ75VZUA)]
+      [[View Certification](https://www.coursera.org/account/accomplishments/specialization/S9EMWZ75VZUA)]
 
   2. **AWS Certified Cloud Practitioner**  
      *Issued by*: Amazon Web Services  
@@ -26,12 +26,12 @@
   3. **Tableau Desktop Specialist**  
      *Issued by*: Tableau  
      *Issued on*: [2024-September-14]  
-     [[View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4aDVqDpJLCN2Gj-g?e=okqhWg)](#)
+     [[View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4aDVqDpJLCN2Gj-g?e=okqhWg)]
 
   4. **Lean Six Sigma Green Belt Certification**  
      *Issued by*: CII (Confederation of Indian Industry)  
      *Issued on*: [2016-April-30]  
-     [[View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZgjU8g_MpGLZAog8Q?e=XcZ2Qj)](#)
+     [[View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZgjU8g_MpGLZAog8Q?e=XcZ2Qj)]
 
 - ## Courses & Training 📚
   1. ** Ultimate AWS Certified Cloud Practitioner**  
