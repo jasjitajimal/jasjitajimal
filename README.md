@@ -6,7 +6,7 @@
 - 📫 **Hire me:** 
   - Mail: jasjitsingh.uwin@outlook.com
   - LinkedIn: [Jasjit Singh](https://www.linkedin.com/in/jasjitajimal/)
-  - Resume: [Jasjit Singh Resume](https://1drv.ms/b/s!Aj5QaL7MqxL68lgsb8G8z1zczVy4?e=chk3qd)
+  - Resume: [Jasjit Singh Resume](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ86dk6TmCjl8gBDtA?e=EHo9uM)
 - 🔗 **Practice dashboards:** [Tableau Public](https://public.tableau.com/app/profile/jasjitajimal/vizzes)
 - 🔗 **Sql Skills:** [Practice SQL](https://github.com/jasjitajimal/practice_sql)
 
