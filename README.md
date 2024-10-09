@@ -16,12 +16,12 @@
   1.  **Google Data Analytics Professional Certification**  
       *Issued by*: Google  
       *Issued on*: [2024-July-12]  
-      [[View Certification](https://www.coursera.org/account/accomplishments/specialization/S9EMWZ75VZUA)](#)
+      [[View Certification](#https://www.coursera.org/account/accomplishments/specialization/S9EMWZ75VZUA)]
 
   2. **AWS Certified Cloud Practitioner**  
      *Issued by*: Amazon Web Services  
      *Issued on*: [2024-Sept-04]  
-     [[View Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/8b4fb516c2c74b0bafbe09f644a95dbf)](#)  
+     [[View Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/8b4fb516c2c74b0bafbe09f644a95dbf)]
 
   3. **Tableau Desktop Specialist**  
      *Issued by*: Tableau  
