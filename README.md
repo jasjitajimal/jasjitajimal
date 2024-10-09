@@ -34,7 +34,7 @@
      [[View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZgjU8g_MpGLZAog8Q?e=XcZ2Qj)]
 
 - ## Courses & Training 📚
-  1. ** Ultimate AWS Certified Cloud Practitioner**  
+  1. **Ultimate AWS Certified Cloud Practitioner**  
    *Instructor*: Stephane Marek| AWS Certified Cloud Practitioner, Solution Architect, Developer
    *Issued by*: Udemy  
    *Issued on*: [2024-August-23]  
