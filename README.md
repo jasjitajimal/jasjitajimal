@@ -1,7 +1,7 @@
    # 👋 Hi, I’m Jasjit
 
-- 👀 I’m interested in handling data and creating insightful dashboards using SQL and Tableau.
-- 🌱 I’m currently learning SQL and Tableau.
+- 👀 Hello! I'm a data enthusiast who's all about turning numbers into something strategic and cool.
+- 🌱 I am passionate about making a positive impact by leveraging data analytics and industrial experience to tackle real-world challenges and drive informed decision-making.
 
 - 📫 **Hire me:** 
   - Mail: jasjitsingh.uwin@outlook.com
