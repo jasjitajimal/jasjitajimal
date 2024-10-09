@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in handling data and creating insightful dashboards using SQL and Tableau.
 - 🌱 I’m currently learning SQL and Tableau.
-- 
+
 - 📫 **Hire me:** 
   - Mail: jasjitsingh.uwin@outlook.com
   - LinkedIn: [Jasjit Singh](https://www.linkedin.com/in/jasjitajimal/)
