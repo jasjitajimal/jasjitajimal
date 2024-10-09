@@ -10,7 +10,7 @@
 - 🔗 **Practice dashboards:** [Tableau Public](https://public.tableau.com/app/profile/jasjitajimal/vizzes)
 - 🔗 **Sql Skills:** [Practice SQL](https://github.com/jasjitajimal/practice_sql)
 
-- # Certifications 📜
+- ## Certifications 📜
 - Below are some of the professional certifications I have earned:
 
   1.  **Google Data Analytics Professional Certification**  
