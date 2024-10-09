@@ -10,43 +10,35 @@
 - 🔗 **Practice dashboards:** [Tableau Public](https://public.tableau.com/app/profile/jasjitajimal/vizzes)
 - 🔗 **Sql Skills:** [Practice SQL](https://github.com/jasjitajimal/practice_sql)
 
-- ## Certifications 📜
+- ## Certifications & Courses 📜
 - Below are some of the professional certifications I have earned:
 
-  1.  **Google Data Analytics Professional Certification**  
-      *Issued by*: Google  
-      *Issued on*: [2024-July-12]  
-      [[View Certification](https://www.coursera.org/account/accomplishments/specialization/S9EMWZ75VZUA)]
+  -  **2024 Oct 03 - Microsoft Azure Data Fundamentals**
+     -  *Issued by*: Udemy
+     -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ8gjhZtsfVrYIzU9w?e=qYQJ7F)
 
-  2. **AWS Certified Cloud Practitioner**  
-     *Issued by*: Amazon Web Services  
-     *Issued on*: [2024-Sept-04]  
-     [[View Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/8b4fb516c2c74b0bafbe09f644a95dbf)]
+   - **2024 Sep 14 - Tableau Desktop Specialist**
+     - *Issued by*: Tableau  
+     - [View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4aDVqDpJLCN2Gj-g?e=okqhWg)
 
-  3. **Tableau Desktop Specialist**  
-     *Issued by*: Tableau  
-     *Issued on*: [2024-September-14]  
-     [[View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4aDVqDpJLCN2Gj-g?e=okqhWg)]
+   - **2024 Sept 14 - Tableau Desktop Specialist**
+     - *Issued by*: Udemy 
+     - [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4E76hhSHM5sK8ztg?e=jSCchU)
 
-  4. **Lean Six Sigma Green Belt Certification**  
-     *Issued by*: CII (Confederation of Indian Industry)  
-     *Issued on*: [2016-April-30]  
-     [[View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZgjU8g_MpGLZAog8Q?e=XcZ2Qj)]
+   - **2024 Sept 04 - AWS Certified Cloud Practitioner**
+     - *Issued by*: Amazon Web Services  
+     - [View Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/8b4fb516c2c74b0bafbe09f644a95dbf)
 
-- ## Courses & Training 📚
-  1. **Ultimate AWS Certified Cloud Practitioner**  
-   *Instructor*: Stephane Marek| AWS Certified Cloud Practitioner, Solution Architect, Developer
-   *Issued by*: Udemy  
-   *Issued on*: [2024-August-23]  
-   [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZwaNrRoGzzXjvez8A?e=7d1Ta1)  
+   - **2024 Aug 23 - Ultimate AWS Certified Cloud Practitioner**
+     - *Issued by*: Udemy  
+     - [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZwaNrRoGzzXjvez8A?e=7d1Ta1)
 
-  2. **Tableau Desktop Specialist**  
-   *Issued by*: Udemy 
-   *Issued on*: [2024-September-14]  
-   [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4E76hhSHM5sK8ztg?e=jSCchU)
+   - **2024 July 12 - Google Data Analytics Professional Certification**
+      - *Issued by*: Google  
+      - [View Certification](https://www.coursera.org/account/accomplishments/specialization/S9EMWZ75VZUA)
 
-  3. **DP-900: Microsoft Azure Data Fundamentals**  
-   *Issued by*: Udemy
-   *Issued on*: [2024-October-03]  
-   [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ8gjhZtsfVrYIzU9w?e=qYQJ7F)
+   - **2016 April 30 - Lean Six Sigma Green Belt Certification**
+     - *Issued by*: CII (Confederation of Indian Industry) 
+     - [View Certification](https://1drv.ms/b/s!Aj5QaL7MqxL6gZgjU8g_MpGLZAog8Q?e=XcZ2Qj)
 
+     
