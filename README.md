@@ -1,4 +1,4 @@
-   # 👋 Hi, I’m @jasjitajimal
+   # 👋 Hi, I’m Jasjit
 
 - 👀 I’m interested in handling data and creating insightful dashboards using SQL and Tableau.
 - 🌱 I’m currently learning SQL and Tableau.
