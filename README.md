@@ -15,7 +15,7 @@
 
   -  **2024 Oct 03 - Microsoft Azure Data Fundamentals**
      -  *Issued by*: Udemy
-     -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ8gjhZtsfVrYIzU9w?e=qYQJ7F)
+     -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4E76hhSHM5sK8ztg?e=su2veb)
 
    - **2024 Sep 14 - Tableau Desktop Specialist**
      - *Issued by*: Tableau  
