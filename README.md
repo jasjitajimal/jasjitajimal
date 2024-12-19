@@ -13,6 +13,9 @@
 - ## Certifications & Courses 📜
 - Below are some of the professional certifications I have earned:
 
+  -  **2024 Dec 10 - Explore_Data_Concepts**
+     - *Issued by*: Microsoft, Coursera
+     -  [View Certificate]("C:\Users\jasji\OneDrive\4. Education\Coursera Microsoft data fundamentals Certficates\Jasjit_Singh_Certificate_Explore_data_concepts_in_microsoft_azure.pdf")
   -  **2024 Oct 03 - Microsoft Azure Data Fundamentals**
      -  *Issued by*: Udemy
      -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gZ4E76hhSHM5sK8ztg?e=su2veb)
