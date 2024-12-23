@@ -13,7 +13,10 @@
 - ## Certifications & Courses 📜
 - Below are some of the professional certifications I have earned:
 
-  -  **2024 Dec 10 - Explore_Data_Concepts**
+  -  **2024 Dec 23 - Microsoft_Azure_SQL**
+     - *Issued by*: Microsoft, Coursera
+     -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gaY5wB1T1uaJH30xHQ?e=PwGyrl)
+  -  **2024 Dec 15 - Explore_Data_Concepts**
      - *Issued by*: Microsoft, Coursera
      -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gaR-F6k-q7PfEE6ECA?e=3GYoIK)
   -  **2024 Oct 03 - Microsoft Azure Data Fundamentals**
