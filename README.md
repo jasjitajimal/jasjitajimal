@@ -13,6 +13,9 @@
 - ## Certifications & Courses 📜
 - Below are some of the professional certifications I have earned:
 
+  -  **2024 Dec 31 - Modern Data Warehouse Analytics in Microsoft Azure**
+     - *Issued by*: Microsoft, Coursera
+     -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gap2zbJv4owxEllwQQ?e=nvU18U)
   -  **2024 Dec 27 - Microsoft_Azure_CosmosDB**
      - *Issued by*: Microsoft, Coursera
      -  [View Certificate](https://1drv.ms/b/s!Aj5QaL7MqxL6gakUUsDfApAHmA6hSg?e=XSi2MQ)
