@@ -13,7 +13,7 @@
 - ## Certifications & Courses 📜
 - Below are some of the professional certifications I have earned:
 
-  -  **[2025 Jan 03 - DP-900 Microsoft Azure Data Fundamentals** - *Issued by*: Microsoft, Coursera](https://coursera.org/share/8167a38acd553025b52b69233ce0a93b)
+  -  **[2025 Jan 03 - DP-900 Microsoft Azure Data Fundamentals - *Issued by*: Microsoft, Coursera](https://coursera.org/share/8167a38acd553025b52b69233ce0a93b)**
   
   -  **2024 Dec 31 - Modern Data Warehouse Analytics in Microsoft Azure**
      - *Issued by*: Microsoft, Coursera
