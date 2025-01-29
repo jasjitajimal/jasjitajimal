@@ -13,6 +13,7 @@
 - ## Certifications & Courses 📜
 - Below are some of the professional certifications I have earned:
 
+  -  2025 Jan 27 - [Statistics for Data Science with Python](https://1drv.ms/b/s!Aj5QaL7MqxL6gbVoUzVKjZtQ6i6m6A?e=1FiIqi)- *Issued by*: IBM
   -  2025 Jan 21 - [Python for Data Science, AI & Development](https://1drv.ms/b/s!Aj5QaL7MqxL6gbQWRqD1fCgYCa3oHA?e=oWO52w) - *Issued by*: IBM
   -  2025 Jan 11 - [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/8RM4DWM0B2KX) - *Issued by*: IBM
   -  2025 Jan 03 - [DP-900 Microsoft Azure Data Fundamentals](https://coursera.org/share/8167a38acd553025b52b69233ce0a93b) - *Issued by*: Microsoft
