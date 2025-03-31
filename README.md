@@ -13,6 +13,7 @@
 - ## Certifications & Courses 📜
 - Below are some of the professional certifications I have earned:
 
+  -  2025 Mar 31 - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://1drv.ms/b/s!Aj5QaL7MqxL6gcISknPqBxSxa2dolA?e=UvVcnb) *Issued by*: IBM
   -  2025 Feb 19 - [Python Project for Data Engineering](https://1drv.ms/b/s!Aj5QaL7MqxL6gb1GNzoI0tfXt3cDuQ?e=95CbbV)- *Issued by*: IBM
   -  2025 Feb 17 - [Introduction to Data Engineering](https://1drv.ms/b/s!Aj5QaL7MqxL6gbwiuh-9QhWJGh4RWg?e=RoZjAN)- *Issued by*: IBM
   -  2025 Feb 08 - [Databases and SQL for Data Science with Python](https://1drv.ms/b/s!Aj5QaL7MqxL6gbgrbjp39KQcqwErcg?e=2TMyPo)- *Issued by*: IBM
